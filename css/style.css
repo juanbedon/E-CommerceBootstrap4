@@ -1,0 +1,58 @@
+* {box-sizing: border-box;}
+
+@media (min-width: 1200px) { 
+  .full {
+    margin-top: 50px;
+  }
+ }
+
+@media (max-width: 850px) {
+
+  #Buscar {
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+
+  #categorías {
+    display: none;
+  }
+  
+  .caption h3{
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .caption {
+    font-size: 10px;
+  }
+  .caption p a{
+    font-size:90%;
+    margin-top: 5px;
+    display: block;
+  }
+
+}
+
+.categorías {
+  margin-top: 50px;
+}
+
+.canasta {
+  margin-right: 20px;
+}
+
+.comentario {
+  margin-top: 20px;
+}
+
+.card {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.nowrap{
+  white-space: nowrap;
+} 
+
+.btn-responsive {
+  padding:4px 9px;
+}
