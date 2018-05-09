@@ -6,7 +6,7 @@
   }
  }
 
-@media (max-width: 850px) {
+@media (max-width: 991px) {
 
   #Buscar {
     margin-top: 30px;
@@ -55,4 +55,8 @@
 
 .btn-responsive {
   padding:4px 9px;
+}
+
+.comments {
+    margin-top: 20px;
 }
